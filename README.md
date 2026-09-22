@@ -4,7 +4,7 @@
 <!--  https://github.com/user-attachments/assets/53a8ec4f-60fe-4958-b690-2b9fdf1896f3 -->
 
 ## On-Site Instances
-<img src="assets/large-re2.png">
+<img src="assets/large-re2-a.png">
 <img src="assets/irregular-re2.png">
 
 ## 1. Credits
